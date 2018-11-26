@@ -1,7 +1,7 @@
 # Plantae-seminar-Nov2018
 
 Author: Amy Tabb
-A repository with notes from the seminar given on 28 November 2018.
+A repository with notes from the seminar given on 28 November 2018.  Slides to be posted here in a few days.
 
 Tabb and Medeiros citation is:
 
@@ -18,6 +18,8 @@ MVG, or **Multiple View Geometry in Computer Vision**, by Richard Hartley and An
 
 [OpenCV](https://opencv.org/), or Open Computer Vision.
 
+[OpenCV tutorial, version 3.0, C++](https://docs.opencv.org/3.1.0/d4/d94/tutorial_camera_calibration.html)
+
 
 ### Examples of plant phenotyping papers that use measurement from images:
 
@@ -28,6 +30,11 @@ MVG, or **Multiple View Geometry in Computer Vision**, by Richard Hartley and An
 
 * M. Müller-Linow, F. Pinto-Espinosa, H. Scharr, and U. Rascher, “The leaf angle distribution of natural plant populations: assessing the canopy with a novel software tool,” Plant Methods, vol. 11, no. 1, p. 11, Feb. 2015. [Open access paper](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-015-0052-z)
 
+### Rolling shutter
+
+Figure from [Wikipedia](https://en.wikipedia.org/wiki/Rolling_shutter). 
+
+Good explanation and video from [DIY Photography](https://www.diyphotography.net/everything-you-wanted-to-know-about-rolling-shutter/).
 
 ### Camera obscura reference:
 
@@ -45,7 +52,25 @@ Drucker (Eds.), Anais do XI Congresso Brasileiro de Agroinformática (SBIAgro 20
 
 
 ### arUco tags 
-S. Garrido-Jurado, R. Muñoz-Salinas, F. J. Madrid-Cuevas, and M. J. Marín-Jiménez, “Automatic generation and detection of highly reliable fiducial markers under occlusion,” Pattern Recognition, vol. 47, no. 6, pp. 2280–2292, Jun. 2014. [Publisher](https://www.sciencedirect.com/science/article/abs/pii/S0031320314000235)  [OpenCV documentation](https://docs.opencv.org/3.1.0/d5/dae/tutorial_aruco_detection.html)
+S. Garrido-Jurado, R. Muñoz-Salinas, F. J. Madrid-Cuevas, and M. J. Marín-Jiménez, “Automatic generation and detection of highly reliable fiducial markers under occlusion,” Pattern Recognition, vol. 47, no. 6, pp. 2280–2292, Jun. 2014. 
+[Publisher](https://www.sciencedirect.com/science/article/abs/pii/S0031320314000235)  [OpenCV documentation](https://docs.opencv.org/3.1.0/d5/dae/tutorial_aruco_detection.html)
 
-Note that the aruco library is included in the contributed module of OpenCV, which is where extra, experimental modules are housed before they are incorporated into the main release of OpenCV.  You can read more about the contributed module at its [Github repository](https://github.com/opencv/opencv_contrib).
+Note that the *aruco* library is included in the contributed module of OpenCV, which is where extra, experimental modules are housed before they are incorporated into the main release of OpenCV.  You can read more about the contributed module at its [Github repository](https://github.com/opencv/opencv_contrib).
+
+### Shape from Motion (SfM) and EXIF tags
+
+[Changchang Wu's VisualSFM](http://ccwu.me/vsfm/doc.html#basic)
+
+[Noah Snavely's Bundler](http://www.cs.cornell.edu/~snavely/bundler/)
+
+
+### Related organizations and conferences
+
+IEEE Robotics and Automation Society's Technical Committee on Agricultural Robotics and Automation: [ieeeagra.com](http://ieeeagra.com/)
+
+[Phenome 2019, February 6-10, 2019](http://phenome2019.org/)
+http://phenome2019.org/
+
+
+
 
