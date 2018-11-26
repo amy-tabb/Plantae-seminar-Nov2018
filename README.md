@@ -45,7 +45,7 @@ Drucker (Eds.), Anais do XI Congresso Brasileiro de Agroinformática (SBIAgro 20
 
 
 ### arUco tags 
-S. Garrido-Jurado, R. Muñoz-Salinas, F. J. Madrid-Cuevas, and M. J. Marín-Jiménez, “Automatic generation and detection of highly reliable fiducial markers under occlusion,” Pattern Recognition, vol. 47, no. 6, pp. 2280–2292, Jun. 2014. [Publisher](https://www.sciencedirect.com/science/article/abs/pii/S0031320314000235)[OpenCV documentation](https://docs.opencv.org/3.1.0/d5/dae/tutorial_aruco_detection.html)
+S. Garrido-Jurado, R. Muñoz-Salinas, F. J. Madrid-Cuevas, and M. J. Marín-Jiménez, “Automatic generation and detection of highly reliable fiducial markers under occlusion,” Pattern Recognition, vol. 47, no. 6, pp. 2280–2292, Jun. 2014. [Publisher](https://www.sciencedirect.com/science/article/abs/pii/S0031320314000235)  [OpenCV documentation](https://docs.opencv.org/3.1.0/d5/dae/tutorial_aruco_detection.html)
 
-Note that the aruco library is included in the contributed module of OpenCV, which is where extra, experimental modules are housed before they are incorporated into the main release of OpenCV.  You can read more about the contributed module [here](https://github.com/opencv/opencv_contrib).
+Note that the aruco library is included in the contributed module of OpenCV, which is where extra, experimental modules are housed before they are incorporated into the main release of OpenCV.  You can read more about the contributed module at its [Github repository](https://github.com/opencv/opencv_contrib).
 
