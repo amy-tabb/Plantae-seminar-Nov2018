@@ -10,11 +10,16 @@ A. Tabb and H. Medeiros, "A robotic vision system to measure tree traits," 2017 
 * [arXiv](https://arxiv.org/pdf/1707.05368.pdf)
 * [video](http://www.coviss.org/tabbmedeiros_rotse_iros17/)
 
+### MVG
 MVG, or **Multiple View Geometry in Computer Vision**, by Richard Hartley and Andrew Zisserman. ISBN: 0521540518
 * [Website](http://www.robots.ox.ac.uk/~vgg/hzbook/) 
 
+### OpenCV
 
-Examples of plant phenotyping papers that use measurement from images:
+[OpenCV](https://opencv.org/), or Open Computer Vision.
+
+
+### Examples of plant phenotyping papers that use measurement from images:
 
 * S. Heckwolf, M. Heckwolf, S. M. Kaeppler, N. de Leon, and E. P. Spalding, “Image analysis of anatomical traits in stalk transections of maize and other grasses,” Plant Methods, vol. 11, no. 1, p. 26, Apr. 2015. [Open access paper](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-015-0070-x)
 
@@ -24,13 +29,14 @@ Examples of plant phenotyping papers that use measurement from images:
 * M. Müller-Linow, F. Pinto-Espinosa, H. Scharr, and U. Rascher, “The leaf angle distribution of natural plant populations: assessing the canopy with a novel software tool,” Plant Methods, vol. 11, no. 1, p. 11, Feb. 2015. [Open access paper](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-015-0052-z)
 
 
-Camera obscura reference:
+### Camera obscura reference:
 
 “Camera Obscura Image of Manhattan View Looking West in Empty Room," by Aberlardo Morell. copyright 1996, Smithsonian American Art Museum [link](http://edan.si.edu/saam/id/object/1998.159)
 
+### Maize figure:
+Dzievit, Matthew (2018): Maize-Mo17 - Full plant at flowering with correct leaf angles.png. figshare. Figure. [doi: 10.6084/m9.figshare.6994376.v1](https://doi.org/10.6084/m9.figshare.6994376.v1)
 
-
-3-Demeter tool:
+### 3-Demeter tool:
 
 [Github:thsant/3dmcap](https://github.com/thsant/3dmcap)
 Citation: Santos, T. T., Bassoi, L. H., Oldoni, H., & Martins, R. L. (2017). Automatic grape bunch detection in vineyards based on
@@ -38,7 +44,8 @@ affordable 3D phenotyping using a consumer webcam. In J. G. A. Barbedo, M. F. Mo
 Drucker (Eds.), Anais do XI Congresso Brasileiro de Agroinformática (SBIAgro 2017) (pp. 89 - 98). Campinas: Unicamp.
 
 
-aruco tags: S. Garrido-Jurado, R. Muñoz-Salinas, F. J. Madrid-Cuevas, and M. J. Marín-Jiménez, “Automatic generation and detection of highly reliable fiducial markers under occlusion,” Pattern Recognition, vol. 47, no. 6, pp. 2280–2292, Jun. 2014. [Publisher](https://www.sciencedirect.com/science/article/abs/pii/S0031320314000235)[OpenCV documentation](https://docs.opencv.org/3.1.0/d5/dae/tutorial_aruco_detection.html)
+### arUco tags 
+S. Garrido-Jurado, R. Muñoz-Salinas, F. J. Madrid-Cuevas, and M. J. Marín-Jiménez, “Automatic generation and detection of highly reliable fiducial markers under occlusion,” Pattern Recognition, vol. 47, no. 6, pp. 2280–2292, Jun. 2014. [Publisher](https://www.sciencedirect.com/science/article/abs/pii/S0031320314000235)[OpenCV documentation](https://docs.opencv.org/3.1.0/d5/dae/tutorial_aruco_detection.html)
 
 Note that the aruco library is included in the contributed module of OpenCV, which is where extra, experimental modules are housed before they are incorporated into the main release of OpenCV.  You can read more about the contributed module [here](https://github.com/opencv/opencv_contrib).
 
