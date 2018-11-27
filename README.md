@@ -63,6 +63,15 @@ Note that the *aruco* library is included in the contributed module of OpenCV, w
 
 [Noah Snavely's Bundler](http://www.cs.cornell.edu/~snavely/bundler/)
 
+### Camera as a scanner
+
+Code and technical report to be announced.  To you want to be notified?  Please email with the subject "camera as scanner request".  I'll send out a notice when it is ready.
+
+Original and result files from this portion of the talk are included in this repository.  `iphone6` holds the original images, and then `iphone6_results` has the results.  Interpreting the results files:
+* `internal_initial_detectN.jpg` is the original image with the coordinates of the detected world coordinate system overlaid on the image.  If a n arUco tag was detected, it will be outlined in cyan and have a small magenta number in the center. 
+* `undistortedN.jpg` has the undistorted version of the original image, using the calibration information.
+* `warpedN.jpg` is the image after the homography to transform it into the world coordinate system coordinates has been estimated, and applied.  The units are 10 pixels = 1mm.
+* `croppedN.jpg` is a cropped version of `warpedN.jpg` that is 1550x2060 pixels.  To print to scale, print at 155x206mm.
 
 ### Related organizations and conferences
 
