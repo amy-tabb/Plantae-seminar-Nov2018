@@ -1,7 +1,8 @@
 # Plantae-seminar-Nov2018
 
-Author: Amy Tabb
-A repository with notes from the seminar given on 28 November 2018.  Slides to be posted here in a few days.
+Author: Amy Tabb.  Questions/comments/problems: amy.tabb@ars.usda.gov
+
+A repository with notes from the seminar given on 28 November 2018.  Slides to be posted here in a few days after the seminar.
 
 Tabb and Medeiros citation is:
 
