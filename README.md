@@ -19,7 +19,7 @@ MVG, or **Multiple View Geometry in Computer Vision**, by Richard Hartley and An
 
 [OpenCV](https://opencv.org/), or Open Computer Vision.
 
-[OpenCV tutorial, version 3.0, C++](https://docs.opencv.org/3.1.0/d4/d94/tutorial_camera_calibration.html)
+[OpenCV camera calibration tutorial, version 3.0, C++](https://docs.opencv.org/3.1.0/d4/d94/tutorial_camera_calibration.html)
 
 
 ### Examples of plant phenotyping papers that use measurement from images:
@@ -36,6 +36,14 @@ MVG, or **Multiple View Geometry in Computer Vision**, by Richard Hartley and An
 Figure from [Wikipedia](https://en.wikipedia.org/wiki/Rolling_shutter). 
 
 Good explanation and video from [DIY Photography](https://www.diyphotography.net/everything-you-wanted-to-know-about-rolling-shutter/).
+
+### Camera calibration code
+
+Code for calibrating your own camera with a chessboard-style pattern is available in another repository, [basic-chessboard-cali](https://github.com/amy-tabb/basic-chessboard-cali).
+
+If you are using a consumer-style camera, make sure that only one focal length is used, also known as, turn auto focus off.  
+
+A chessboard is included in this repository (Chessboard.png); many more are avaliable online.  This one has 15 corners in the vertical direction, and 10 in the horizontal direction.  I have had great success in ordering prints of the patterns on a low-gloss alumnium, which is then durable and washable (and comes with its own frame!), for field and greenhouse conditions.  I always encourage people to test with the cheapest thing first (i.e., paper), and do not want to endorse any product, but a web search of "metal or aluminum image print" or similar will probably find you something in your region.
 
 ### Camera obscura reference:
 
