@@ -2,7 +2,17 @@
 
 Author: Amy Tabb.  Questions/comments/problems: amy.tabb@ars.usda.gov
 
-A repository with notes from the seminar given on 28 November 2018.  Slides to be posted here in a few days after the seminar.  This repository will be updated over time, so suggest you check back at the source if there is an issue.
+A repository with notes from the seminar given on 28 November 2018.  This repository will be updated over time, so suggest you check back at the source if there is an issue.
+
+I will post a link when the webinar is posted on [Plantae](https://plantae.org/plantae-seminars/).
+
+The presentation is a .pdf that is 100MB, and it, and the accompanying videos are stored on Google Drive.  If you are not able to access this, let me know and we will find a workaround.
+
+[Presentation](https://drive.google.com/open?id=1W2bh93AwjBnOoulAcmfpS9RwNG19PHQ9) 
+
+[Video1 ](http://www.coviss.org/tabbmedeiros_rotse_iros17/)
+[Video 2](https://drive.google.com/open?id=1kz28A8QdtMzH0Hc2D-qWXs6W25mXYy8M)
+[Video 3](https://drive.google.com/open?id=14DoJfhXRWG_HfYUuaw5Ef2sj1bH-vnOh)
 
 Tabb and Medeiros citation is:
 
@@ -14,6 +24,8 @@ A. Tabb and H. Medeiros, "A robotic vision system to measure tree traits," 2017 
 ### MVG
 MVG, or **Multiple View Geometry in Computer Vision**, by Richard Hartley and Andrew Zisserman. ISBN: 0521540518
 * [Website](http://www.robots.ox.ac.uk/~vgg/hzbook/) 
+
+Another camera calibration reference for more in-depth details, very much beyond the scope of this talk, is Zhengyou Zhang's [technical report](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr98-71.pdf) on Camera calibration. Other versions are the [TPAMI version](https://ieeexplore.ieee.org/document/888718). As I understand it, before this time more expensive and precise two- and three-plane calibration objects were used, so this technique really changed the field.  Unbelievably, this tech report is now 20 years old!
 
 ### OpenCV
 
