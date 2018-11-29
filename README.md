@@ -10,9 +10,13 @@ The presentation is a .pdf that is 100MB, and it, and the accompanying videos ar
 
 [Presentation](https://drive.google.com/open?id=1W2bh93AwjBnOoulAcmfpS9RwNG19PHQ9) 
 
-[Video1 ](http://www.coviss.org/tabbmedeiros_rotse_iros17/)
-[Video 2](https://drive.google.com/open?id=1kz28A8QdtMzH0Hc2D-qWXs6W25mXYy8M)
-[Video 3](https://drive.google.com/open?id=14DoJfhXRWG_HfYUuaw5Ef2sj1bH-vnOh)
+[Video 1, page 5 ](http://www.coviss.org/tabbmedeiros_rotse_iros17/)
+
+[Video 2, page 11 ](https://drive.google.com/open?id=1kz28A8QdtMzH0Hc2D-qWXs6W25mXYy8M)
+
+[Video 3, page 56 ](https://drive.google.com/open?id=14DoJfhXRWG_HfYUuaw5Ef2sj1bH-vnOh)
+
+(Thursday: I believe with Okular, and downloading the .pdf, the videos will play on Ubuntu, but I have not tested this.  They will not play on Windows.)
 
 Tabb and Medeiros citation is:
 
