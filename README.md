@@ -2,9 +2,11 @@
 
 Author: Amy Tabb.  Questions/comments/problems: amy.tabb@ars.usda.gov
 
-A repository with notes from the seminar given on 28 November 2018.  This repository will be updated over time, so suggest you check back at the source if there is an issue.
+A repository with notes from the seminar given on 28 November 2018.  This repository will be updated over time, so suggest you check back at the source if there is an issue.  
 
-I will post a link when the webinar is posted on [Plantae](https://plantae.org/plantae-seminars/).
+*Last updated: 1 December, 2018*
+
+Webinar recording is on [Plantae](https://community.plantae.org/video/5127327460051912557/transforming-pixels-to-millimeters-geometric-camera-calibration).
 
 The presentation is a .pdf that is 100MB, and it, and the accompanying videos are stored on Google Drive.  If you are not able to access this, let me know and we will find a workaround.
 
