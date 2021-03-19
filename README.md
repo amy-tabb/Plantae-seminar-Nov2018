@@ -6,7 +6,7 @@ A repository with notes from the seminar given on 28 November 2018.  This reposi
 
 *Last updated: 1 December, 2018*
 
-The webinar recording is posted on [Plantae, ASPB](https://community.plantae.org/video/5127327460051912557/transforming-pixels-to-millimeters-geometric-camera-calibration).
+The webinar recording is posted on [Plantae, ASPB](https://plantae.org/transforming-pixels-to-millimeters-geometric-camera-calibration/).
 
 The presentation is a .pdf that is 100MB, and it, and the accompanying videos are stored on Google Drive.  If you are not able to access this, let me know and we will find a workaround.
 
